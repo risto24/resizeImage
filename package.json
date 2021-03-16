@@ -1,0 +1,19 @@
+{
+  "name": "DifferentEffectiveNagware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "blob": "^0.1.0",
+    "cross-blob": "^2.0.0",
+    "image-size": "^0.9.5",
+    "sharp": "^0.27.2"
+  }
+}
